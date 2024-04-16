@@ -95,7 +95,8 @@ git breanch -M main
 git push -u origin main
 
 ### Step 6
-
+git add .
+git commit -m 'starting a menu'
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
